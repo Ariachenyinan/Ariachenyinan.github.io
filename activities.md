@@ -1,12 +1,40 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /activities/index.html
+title: Activities
 ---
 
-# Hobbies
+## On-site Construction
 
-## Teaching & Workshops
+### The 3rd Solar Decathlon China, Solar Ark 3.0 (Joint Team of SEU and ETH）
+
+<br>
+
+---
+
+
+## Social Services
+
+### Students' Union
+
+### Vulunteer Asscociate
+
+<br>
+
+---
+
+
+## Hobbies
+
+### Photography
+
+### Cooking
+
+### Piano
+
+### My dogs
+
+### Teaching & Workshops
 
 <div class="third">
 <img src="/images/prelection1.JPG">

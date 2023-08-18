@@ -1,31 +1,33 @@
 ---
 layout: page
-permalink: /blogs/index.html
-title: Blogs
+permalink: /researches/index.html
+title: Researches
 ---
 
-## Chinese Blogs
 
 ### 2023
 
-- [关于数学建模竞赛](https://caihanlin.com/blogs/team2023)
-- [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)
+- **1&nbsp;[Research on the Correlation between City Diversity and Urban Perception](https://caihanlin.com/blogs/team2023)**
+  *Group leader, Supervised by Tu Han (MIT)*
 
 ### 2022
 
-- [20岁，宽心且看月中桂](https://caihanlin.com/blogs/20yrs)<br>
-- [Cambridge 线上暑研回忆录](https://caihanlin.com/blogs/cambridge/)<br>
-- [暂停、暂停、暂停](https://caihanlin.com/blogs/stop/)
+- **2&nbsp;[A Study on Street Walkability for Elderly People with Different Mobility Abilities Combining Street View Image Recognition and Deep Learning](https://caihanlin.com/blogs/team2023)**
+  *Group leader, Supervised by Huang Xiaoran (The University of Melbourne)*
+
+- **3&nbsp;[Research on the Regeneration of Dacang Based on Climate Data and Human Behavior](https://caihanlin.com/blogs/team2023)**
+  *Major member, Supervised by Associate Researcher Li Li (Southeast University)*
+
+- **4&nbsp;[Urban Renewal Project in Xiaoqinhuai, Yangzhou, Jiangsu](https://caihanlin.com/blogs/team2023)**
+  *Group member, Supervised by Prof. Wang Jianguo (Southeast University)*
 
 ### 2021
 
-- [19岁，山高路亦远](https://caihanlin.com/blogs/19yrs)<br>
-- [星野学社实习回忆录](https://caihanlin.com/blogs/star)
+- **5&nbsp;[Research on Survey Methodology of Micro-Regeneration for Community Streets Based on Street View Images](https://caihanlin.com/blogs/team2023)**
+  *Individual project*
 
-### 2020
-
-- [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
-- [本科博客，笔记，回忆录](https://mieclance.club/)
+- **6&nbsp;[Research on Infrastructure Urbanization](https://caihanlin.com/blogs/team2023)**
+  *Group member, Supervised by Postdoc. Yang Liu (Southeast University)*
 
 <br>
 
