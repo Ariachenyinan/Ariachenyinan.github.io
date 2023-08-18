@@ -10,10 +10,10 @@ owner:
   avatar: YINAN.jpg
 #  bio:
   email: 220210083@seu.edu.cn
+  github: Ariachenyinan
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: lancecai2002
-  # facebook: caihanlin2002
-  github: Ariachenyinan
+  # facebook: caihanlin2002 
   #linkedin: hanlincai
   #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # instagram: lancecai2002
@@ -24,7 +24,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+#google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -40,12 +40,14 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Fundings
-    url: /fundings/
+  - title: Researches
+    url: /researches/
+  - title: Designs
+    url: /designs/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  #- title: Blogs
+   # url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
@@ -83,5 +85,5 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
-# Latest update in 2023/08/01 by Hanlin Cai.
-# URL: https://caihanlin.com/
+# Latest update in 2023/08/18 by Chen Yinan.
+# URL: https://ariachenyinan.github.io/

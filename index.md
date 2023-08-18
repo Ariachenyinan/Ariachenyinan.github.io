@@ -16,7 +16,7 @@ I am currently a graduate student majoring in **Architecture** at Southeat Unive
 
 <br>
 
-Here is [my CV](https:/Ariachenyinan.github.io/file/CHENYINAN_CV.pdf).
+Here is [my Curriculum Vitae](https:/Ariachenyinan.github.io/file/CHENYINAN_CV.pdf).
 
 <br>
 
@@ -28,14 +28,14 @@ Here is [my CV](https:/Ariachenyinan.github.io/file/CHENYINAN_CV.pdf).
 
 **Contact me if you are interested!**
 
-- **Sep 2021 - June 2024:** 
-  Southeast University,School of Architecture (Bachelor of Architecture, Graduated with Distinction)
+- **Sep 2021 - June 2024:** Southeast University
+  School of Architecture (Bachelor of Architecture, Graduated with Distinction)
 
-- **Sep 2016 - June 2021:** 
-  Southeast University,School of Architecture (Master of Architecture)
+- **Sep 2016 - June 2021:** Southeast University
+  School of Architecture (Master of Architecture)
 
-- **Sep 2015 - June 2016:** 
-  Southeast University,School of Environment and Energy (Major transferred)
+- **Sep 2015 - June 2016:** Southeast University
+  School of Environment and Energy (Major transferred)
 
 ---
 
@@ -57,7 +57,7 @@ My current research interests is to utilize **urban multi-source big data** and 
 - **June 2023：**
   Abstract accepted by ASCAAD·2023，full paper submitted and currently under review
 - **June 2023：**
-  Two Full papers (Chinese) accepted by The 2023 Annual National Planning Conference of China
+  Two full papers (Chinese) accepted by The 2023 Annual National Planning Conference of China
 - **October 2022：**
   Abstract accepted by CAADRIA·2022
 - **October 2022：**
@@ -75,6 +75,6 @@ My current research interests is to utilize **urban multi-source big data** and 
 - **June 2017：**
   Happy to the team of [24 Solar Terms](https://mp.weixin.qq.com/s/zxQpjXAkqAJVWYL4Yds44g) and designed some creative works 
 - **September 2016：**
-  Joined the Students' Union of School of Architecture, SEU
+  Joined the Students' Union in School of Architecture, SEU
 - **August 2016：**
   Major transferred from School of Environment and Energy to School of Architecture, SEU
