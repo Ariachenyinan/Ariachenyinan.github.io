@@ -20,7 +20,9 @@ Here is [my Curriculum Vitae](https://Ariachenyinan.github.io/file/CHENYINAN_CV.
 
 <br>
 
-## Academic Background
+---
+
+## Research Interests
 
 **<font color='red'>[Highlight]</font>** 
 
@@ -28,25 +30,29 @@ Here is [my Curriculum Vitae](https://Ariachenyinan.github.io/file/CHENYINAN_CV.
 
 **Contact me if you are interested!**
 
-- **Sep 2021 - June 2024:** Southeast University
-  School of Architecture (Bachelor of Architecture, Graduated with Distinction)
-
-- **Sep 2016 - June 2021:** Southeast University
-  School of Architecture (Master of Architecture)
-
-- **Sep 2015 - June 2016:** Southeast University
-  School of Environment and Energy (Major transferred)
-
----
-
-## Research Interests
-
 - Urban informatics and analysis
 - Urban perception
 - Walkability
 - Urban Design
 
 My current research interests is to utilize **urban multi-source big data** and **machine Learning** to **quantitatively** study the relationship between the built environment and people's behaviors to **help promote human-centered urbanism**.
+
+<br>
+
+---
+
+## Academic Background
+
+- **Sep 2021 - June 2024:** Southeast University
+  School of Architecture (Bachelor of Architecture, Graduated with Distinction)
+  [Transcripts](https://Ariachenyinan.github.io/file/grades_master.pdf)   [Certificate](https://Ariachenyinan.github.io/file/certificate_master.pdf)
+
+- **Sep 2016 - June 2021:** Southeast University
+  School of Architecture (Master of Architecture)
+  [Transcripts](https://Ariachenyinan.github.io/file/grades_bachelor.pdf)   [Certificate](https://Ariachenyinan.github.io/file/certificate_bachelor.pdf)
+
+- **Sep 2015 - June 2016:** Southeast University
+  School of Environment and Energy (Major transferred)
 
 <br>
 
