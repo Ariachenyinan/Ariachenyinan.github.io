@@ -6,9 +6,11 @@ layout: page
 
 <img src="https://Ariachenyinan.github.io/chenyinan.jpg" class="floatpic" width="360" height="480">
 
-Hi! Here is **CHEN YINAN (Aria, [陈轶男])**.
+Hi! Here is **CHEN YINAN (Aria, 陈轶男)**.
 
-I am a postgraduate student majoring in **Architecture** at Southeat University and advised by [Prof. Wang Jianguo](https://arch.seu.edu.cn/wjg/main.htm) in Urban Design Research Center. Here is [my CV](https:/Ariachenyinan.github.io/file/CHENYINAN_CV.pdf).
+I am a postgraduate student majoring in **Architecture** at Southeat University and advised by [Prof. Wang Jianguo](https://arch.seu.edu.cn/wjg/main.htm) in Urban Design Research Center. 
+
+Here is [my CV](https:/Ariachenyinan.github.io/file/CHENYINAN_CV.pdf).
 
 <br>
 
