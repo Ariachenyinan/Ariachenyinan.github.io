@@ -6,7 +6,7 @@ title: Awards
 
 
 Lastest Update: 18st Aug 2023&nbsp;  
-#[中文 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+
 
 ## Scholarships
 
@@ -24,8 +24,8 @@ Lastest Update: 18st Aug 2023&nbsp;
 
 ## Competitions
 
+- **August 2022:**  The 3rd Solar Decathlon China Individual Award Excellent Student (National)
 - **May 2022:**      First Prize in The 10th Simulated International Conference Competition of Southeast University
-- **October 2022:**  The 3rd Solar Decathlon China Individual Award Excellent Student (National)
 - **November 2021:** Bronze Prize in The 7th China Residential Environment Design Academic Year Award
 - **January 2016:**  Outstanding Award in the 6th Undergraduate Innovation Competition of Southeast University 
 <br>
