@@ -12,7 +12,7 @@ Here is **CHEN YINAN (Aria, 陈轶男)**.
 
 <br>
 
-I am currently a postgraduate student majoring in **Architecture** at Southeast University and advised by [Prof. Wang Jianguo](https://arch.seu.edu.cn/jz_en/2019/1115/c41169a410116/page.htm) in Urban Design Research Center. 
+I am currently a postgraduate student majoring in **Architecture** at Southeast University and tutored by [Prof. Wang Jianguo](https://arch.seu.edu.cn/jz_en/2019/1115/c41169a410116/page.htm) in Urban Design Research Center. 
 
 <br>
 
@@ -23,21 +23,16 @@ Here is [my Curriculum Vitae](https://Ariachenyinan.github.io/file/CHENYINAN_CV.
 
 ## Academic Background
 
-- **Sep 2021 - June 2024:** Southeast University
-  School of Architecture (Bachelor of Architecture, Graduated with Distinction)
-  
+- **Sep 2021 - June 2024:** Southeast University<br>
+  School of Architecture (Bachelor of Architecture, Graduated with Distinction)<br>
   [Transcripts](https://Ariachenyinan.github.io/file/grades_master.pdf)  &  [Certificate](https://Ariachenyinan.github.io/file/certificate_master.pdf)
-
-- **Sep 2016 - June 2021:** Southeast University
-  School of Architecture (Master of Architecture)
-  
+- **Sep 2016 - June 2021:** Southeast University<br>
+  School of Architecture (Master of Architecture)<br>
   [Transcripts](https://Ariachenyinan.github.io/file/grades_bachelor.pdf)  &  [Certificate](https://Ariachenyinan.github.io/file/certificate_bachelor.pdf)
-
-- **Sep 2015 - June 2016:** Southeast University
+- **Sep 2015 - June 2016:** Southeast University<br>
   School of Environment and Energy (Major transferred)
 
 <br>
-
 
 ---
 
@@ -57,7 +52,6 @@ Here is [my Curriculum Vitae](https://Ariachenyinan.github.io/file/CHENYINAN_CV.
 My current research interests is to utilize **urban multi-source big data** and **machine Learning** to **quantitatively** study the relationship between the built environment and people's behaviors to **help promote human-centered urbanism**.
 
 <br>
-
 
 ---
 
