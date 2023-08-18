@@ -12,7 +12,9 @@ Here is **CHEN YINAN (Aria, 陈轶男)**.
 
 <br>
 
-I am currently a postgraduate student majoring in **Architecture** at Southeast University and tutored by [Prof. Wang Jianguo](https://arch.seu.edu.cn/jz_en/2019/1115/c41169a410116/page.htm) in Urban Design Research Center. 
+I am currently a postgraduate student majoring<br> 
+in **Architecture** at Southeast University and<br>
+tutored by [Prof. Wang Jianguo](https://arch.seu.edu.cn/jz_en/2019/1115/c41169a410116/page.htm) in Urban Design<br> Research Center. 
 
 <br>
 
@@ -23,13 +25,13 @@ Here is [my Curriculum Vitae](https://Ariachenyinan.github.io/file/CHENYINAN_CV.
 
 ## Academic Background
 
-- **Sep 2021 - June 2024:** Southeast University<br>
-  School of Architecture (Bachelor of Architecture, Graduated with Distinction)<br>
-  [Transcripts](https://Ariachenyinan.github.io/file/grades_master.pdf)  &  [Certificate](https://Ariachenyinan.github.io/file/certificate_master.pdf)
-- **Sep 2016 - June 2021:** Southeast University<br>
+- **Sep 2021 - June 2024:** **Southeast University**<br>
   School of Architecture (Master of Architecture)<br>
+  [Transcripts](https://Ariachenyinan.github.io/file/grades_master.pdf)  &  [Certificate](https://Ariachenyinan.github.io/file/certificate_master.pdf)
+- **Sep 2016 - June 2021:** **Southeast University**<br>
+  School of Architecture (Bachelor of Architecture)<br>
   [Transcripts](https://Ariachenyinan.github.io/file/grades_bachelor.pdf)  &  [Certificate](https://Ariachenyinan.github.io/file/certificate_bachelor.pdf)
-- **Sep 2015 - June 2016:** Southeast University<br>
+- **Sep 2015 - June 2016:** **Southeast University**<br>
   School of Environment and Energy (Major transferred)
 
 <br>
@@ -72,9 +74,9 @@ My current research interests is to utilize **urban multi-source big data** and 
 - **May 2021：**
   Happy to be a member of the joint Team of SEU and ETH and participated in The 3rd Solar Decathlon China
 - **June 2021：**
-  Excited to graduate as *Outstanding Graduates (Undergraduate) of Southeast University* （SEU·0.5%）
+  Excited to graduate as Outstanding Graduates (Undergraduate) of Southeast University (SEU·0.5%)
 - **July 2020：**
-  Thrilled to receive the exchange invitation from Sapienza University of Rome (But sadly got cancelled due to Covid-19 o(╥﹏╥)o）
+  Thrilled to receive the exchange invitation from Sapienza University of Rome (But sadly got cancelled due to Covid-19 o(╥﹏╥)o)
 - **June 2017：**
   Happy to the team of [24 Solar Terms](https://mp.weixin.qq.com/s/zxQpjXAkqAJVWYL4Yds44g) and designed some creative works 
 - **September 2016：**
