@@ -12,7 +12,7 @@ Here is **CHEN YINAN (Aria, 陈轶男)**.
 
 <br>
 
-I am currently a graduate student majoring in **Architecture** at Southeat University and advised by [Prof. Wang Jianguo](https://arch.seu.edu.cn/jz_en/2019/1115/c41169a410116/page.htm) in Urban Design Research Center. 
+I am currently a postgraduate student majoring in **Architecture** at Southeat University and advised by [Prof. Wang Jianguo](https://arch.seu.edu.cn/jz_en/2019/1115/c41169a410116/page.htm) in Urban Design Research Center. 
 
 <br>
 
