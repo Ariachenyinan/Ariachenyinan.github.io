@@ -4,45 +4,46 @@ permalink: /awards/index.html
 title: Awards
 ---
 
+
+Lastest Update: 18st Aug 2023&nbsp;  
+#[中文 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+
 ## Scholarships
 
-- May 2023：**XiamenAir Scholarship** (about $1400)<br>One of the highest scholarships in Fujian Province.
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022: Best Student Project Award of Maynooth (€100)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.
+- **October 2022:**  National Scholarship for Postgraduates(National·0.2%)   - ¥20000/$2750
+- **October 2022:**  First Prize Scholarship for Postgraduates (SEU·0.2%)    - ¥12000/$1645
+- **October 2021:**  First Prize Scholarship for Postgraduates (SEU·0.2%)    - ¥10000/$1370
+- **November 2020:** Jiangsu Provincial Construction Award                   -¥5000/$690
+- **April 2019:**    Jianlang Scholarship                                    -¥3000/$410
+- **2016-2020:**     Cyrus Tang Scholarship                                  -¥4000*4/$2200
+<br>
+
+
+---
+
 
 ## Competitions
 
-- Aug 2023：**Best Technology Award** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
-- July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
-- May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：**First Prize** (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- Oct 2022：Maynooth International Engineering College **Best Student Project** in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling
+- **May 2022:**      First Prize in The 10th Simulated International Conference Competition of Southeast University
+- **October 2022:**  The 3rd Solar Decathlon China Individual Award Excellent Student (National)
+- **November 2021:** Bronze Prize in The 7th China Residential Environment Design Academic Year Award
+- **January 2016:**  Outstanding Award in the 6th Undergraduate Innovation Competition of Southeast University 
+<br>
+
+
+---
+
 
 ## Honors
 
-- July 2023：Nomination for Baosteel Scholarship (1/1200)
-- May 2023：Outstanding Student Leaders of Fuzhou University
-- Sep 2022：Nomination for China National Scholarship (3/1200)
-- June 2022：Nomination for China Telecom Scholarship (1/1200)
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- May 2021：Merit Student of Fuzhou University
+- **September 2022:** Merit postgraduate student of Southeast University
+- **June 2021:**  Outstanding Graduates (Undergraduate) of Southeast University (SEU·0.5%)
+- **January 2016:** Outstanding Student Leaders of Southeast University
+- **April 2019:** Social Work Excellence Award of School of Architecture, Southeast University
+- **April 2018:** Volunteer Service Individual Award of Southeast University
+- **2016-2018:** Merit undergraduate student of Southeast University
 
-## Services
 
-- Sep 2022 - Sep 2023：IEEE Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee, Fuzhou University
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College, Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit
 
-Lastest Update: 8th August 2023 &nbsp; [中文 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+
+
