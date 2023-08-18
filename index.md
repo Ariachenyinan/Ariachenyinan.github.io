@@ -16,11 +16,14 @@ Here is [my CV](https:/Ariachenyinan.github.io/file/CHENYINAN_CV.pdf).
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD which starts in 2024 Fall. Contact me if you are interested!**
+**<font color='red'>[Highlight]</font> I am looking for a 2024 Fall PhD position. Contact me if you are interested!**
 
-- **Sep 2021 - June 2024:** Southeast University,School of Architecture (Bachelor of Architecture, Graduated with Distinction)
-- **Sep 2016 - June 2021:** Southeast University,School of Architecture (Master of Architecture)
-- **Sep 2015 - June 2016:** Southeast University,School of Environment and Energy (Major transferred)
+- **Sep 2021 - June 2024:** 
+    Southeast University,School of Architecture (Bachelor of Architecture, Graduated with Distinction)
+- **Sep 2016 - June 2021:** 
+    Southeast University,School of Architecture (Master of Architecture)
+- **Sep 2015 - June 2016:** 
+    Southeast University,School of Environment and Energy (Major transferred)
 
 
 <br>
@@ -34,7 +37,7 @@ Here is [my CV](https:/Ariachenyinan.github.io/file/CHENYINAN_CV.pdf).
 - Walkability
 - Urban Design
 
-My current research interests is to utilize **urban multi-source big data** and **Machine Learning** to **quantitatively** study the relationship between the built environment and people's behaviors to **help promote human-centered urbanism**.
+My current research interests is to utilize **urban multi-source big data** and **machine Learning** to **quantitatively** study the relationship between the built environment and people's behaviors to **help promote human-centered urbanism**.
 
 <br>
 
@@ -42,9 +45,27 @@ My current research interests is to utilize **urban multi-source big data** and 
 
 ## News and Updates
 
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+- **June 2023：**
+    Abstract accepted by ASCAAD·2023，full paper submitted and currently under review
+- **June 2023：**
+    Two Full papers (Chinese) accepted by The 2023 Annual National Planning Conference of China
+- **October 2022：**
+    Abstract accepted by CAADRIA·2022
+- **October 2022：**
+    Happy to be awarded National Scholarship for Postgraduates (National·0.2%)
+- **July 2022：**
+    Happy to be a volunteer of the School of Architecture for the 120th anniversary of SEU and welcomed the 2012 Pritzker Prize laureate, Prof. Wang Shu
+- **September 2021：**
+    Happy to win the Bronze Prize in The 7th China Residential Environment Design Academic Year Award
+- **May 2021：**
+    Happy to be a member of the joint Team of SEU and ETH and participated in The 3rd Solar Decathlon China
+- **June 2021：**
+    Graduated as *Outstanding Graduates (Undergraduate) of Southeast University* （SEU·0.5%）
+- **July 2020：**
+    Glad to receive the exchange invitation from Sapienza University of Rome (But sadly got cancelled due to Covid-19 o(╥﹏╥)o）
+- **June 2017：**
+    Joined the team of [24 Solar Terms](https://mp.weixin.qq.com/s/zxQpjXAkqAJVWYL4Yds44g) and designed some creative works 
+- **September 2016：**
+    Joined the Students' Union of School of Architecture, SEU
+- **June 2016：**
+    Major transferred from School of Environment and Energy to School of Architecture, SEU
