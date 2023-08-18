@@ -6,7 +6,7 @@ title: Activities
 
 ## On-site Construction
 
-### The 3rd Solar Decathlon China, Solar Ark 3.0 (Joint Team of SEU and ETH）
+- **The 3rd Solar Decathlon China, Solar Ark 3.0 (Joint Team of SEU and ETH)**
 
 <br>
 
@@ -15,9 +15,9 @@ title: Activities
 
 ## Social Services
 
-### Students' Union
+- **Students' Union**
 
-### Vulunteer Asscociate
+- **Vulunteer Asscociate**
 
 <br>
 
@@ -26,13 +26,18 @@ title: Activities
 
 ## Hobbies
 
-### Photography
+- **Photography**
 
-### Cooking
+- **Cooking**
 
-### Piano
+- **Piano**
 
-### My dogs
+- **My dogs**
+
+<br>
+
+---
+
 
 ### Teaching & Workshops
 
