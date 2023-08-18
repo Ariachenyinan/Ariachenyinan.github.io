@@ -16,7 +16,7 @@ I am currently a postgraduate student majoring in **Architecture** at Southeat U
 
 <br>
 
-Here is [my Curriculum Vitae](https:/Ariachenyinan.github.io/file/CHENYINAN_CV.pdf).
+Here is [my Curriculum Vitae](https://Ariachenyinan.github.io/file/CHENYINAN_CV.pdf).
 
 <br>
 
