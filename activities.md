@@ -8,11 +8,7 @@ title: Activities
 
 - **The 3rd Solar Decathlon China, Solar Ark 3.0 (Joint Team of SEU and ETH)**
 
-<div class="third">  
-  <img src="/images/zb1.jpg" height="480">
-  <img src="/images/zb2.jpg" height="480">
-  <img src="/images/zb3.jpg" height="480">
-</div> 
+<img src="/images/1.png">
 
   The first time to be on-site for a construction project~<br> 
   It's just so amazing to witness a model turning into a real-life building,and even more amazaing to be a member of the construction team!
@@ -21,11 +17,7 @@ title: Activities
 
 - **Research on ancient buildings in the Forbidden City.**
 
-<div class="third">  
-  <img src="/images/gg1.jpg" height="480">
-  <img src="/images/gg2.jpg" height="480">
-  <img src="/images/gg3.jpg" height="480">
-</div> 
+<img src="/images/2.png">
 
   Enjoying the empty Forbidden City on a Monday!<br>
   The ancient architecture can always provide us architects with boundless inspiration and enlightenment (*^▽^*)
@@ -38,11 +30,7 @@ title: Activities
 
 - **Students' Union**
 
-<div class="third">  
-  <img src="/images/txl1.jpg" height="480">
-  <img src="/images/txl2.jpg" height="480">
-  <img src="/images/txl3.jpg" height="480">
-</div> 
+<img src="/images/3.png">
 
   Organizing academic conferences and student activities has given me the opportunity to meet many talented scholars and fascinating peers.The pursuits of architects and urban designers can be diverse, and their experience constantly inspire me.
 
@@ -50,11 +38,7 @@ title: Activities
 
 - **Vulunteer Asscociate**
 
-<div class="third">  
-  <img src="/images/zy1.jpg" height="480">
-  <img src="/images/zy2.jpg" height="480">
-  <img src="/images/zy3.jpg" height="480">
-</div> 
+<img src="/images/4.png">
 
   Our volunteer activities mainly involve collaborating with communities in Nanjing to provide architectural aesthetic education for teenagers. We believe that everyone is an architect of their own living space, and architecture/urban design is not just about building houses but shaping a better society.
 
@@ -66,11 +50,7 @@ title: Activities
 
 - **Sketching & Drawing**
 
-<div class="third">  
-  <img src="/images/skt1.jpg" height="480">
-  <img src="/images/skt2.jpg" height="480">
-  <img src="/images/skt3.jpg" height="480">
-</div>  
+<img src="/images/5.png">
 
   Drawing can make me feel peace and at ease, especially with my earphone on.
 
@@ -78,11 +58,7 @@ title: Activities
 
 - **Cooking**
 
-<div class="third">  
-  <img src="/images/ck1.jpg" height="480">
-  <img src="/images/ck2.jpg" height="480">
-  <img src="/images/ck3.jpg" height="480">
-</div> 
+<img src="/images/6.png">
 
   Inspired by Julia Child, I have gradually fallen in love with cooking. 
   Food is gentle like love and breeze and has the magic healing power,<br> 
@@ -92,11 +68,7 @@ title: Activities
 
 - **Photography**
 
-<div class="third">  
-  <img src="/images/photo1.jpg" height="480">
-  <img src="/images/photo2.jpg" height="480">
-  <img src="/images/photo3.jpg" height="480">
-</div>  
+<img src="/images/7.png"> 
 
   I bought my Canon with my first scholarship.<br>
   Whenever I have free time, I love taking it for a city walk. <br>
@@ -106,11 +78,7 @@ title: Activities
 
 - **My Dogs**
 
-<div class="third">  
-  <img src="/images/dog1.jpg" height="480">
-  <img src="/images/dog2.jpg" height="480">
-  <img src="/images/dog3.jpg" height="480">
-</div>  
+<img src="/images/8.png">  
 
   I have two little dogs, Meatball and Bony.
   Just like their names, one is a little bit chubby and the other is skinny, but they are both adorable.
