@@ -9,8 +9,8 @@ title: Activities
 - **The 3rd Solar Decathlon China, Solar Ark 3.0 (Joint Team of SEU and ETH)**
 
 <div class="third">  
-  <img src="/images/zb1.jpg" width="480" height="480">&nbsp;
-  <img src="/images/zb3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/zb1.jpg" width="480" height="480">
+  <img src="/images/zb3.jpg" width="480" height="480">
   <img src="/images/zb3.jpg" width="480" height="480">
 </div> 
 
@@ -22,8 +22,8 @@ title: Activities
 - **Research on ancient buildings in the Forbidden City.**
 
 <div class="third">  
-  <img src="/images/gg1.jpg" width="480" height="480">&nbsp;
-  <img src="/images/gg3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/gg1.jpg" width="480" height="480">
+  <img src="/images/gg3.jpg" width="480" height="480">
   <img src="/images/gg3.jpg" width="480" height="480">
 </div> 
 
@@ -39,8 +39,8 @@ title: Activities
 - **Students' Union**
 
 <div class="third">  
-  <img src="/images/txl1.jpg" width="480" height="480">&nbsp;
-  <img src="/images/txl3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/txl1.jpg" width="480" height="480">
+  <img src="/images/txl3.jpg" width="480" height="480">
   <img src="/images/txl3.jpg" width="480" height="480">
 </div> 
 
@@ -51,8 +51,8 @@ title: Activities
 - **Vulunteer Asscociate**
 
 <div class="third">  
-  <img src="/images/zy1.jpg" width="480" height="480">&nbsp;
-  <img src="/images/zy3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/zy1.jpg" width="480" height="480">
+  <img src="/images/zy3.jpg" width="480" height="480">
   <img src="/images/zy3.jpg" width="480" height="480">
 </div> 
 
@@ -67,8 +67,8 @@ title: Activities
 - **Sketching & Drawing**
 
 <div class="third">  
-  <img src="/images/skt1.jpg" width="480" height="480">&nbsp;
-  <img src="/images/skt3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/skt1.jpg" width="480" height="480">
+  <img src="/images/skt3.jpg" width="480" height="480">
   <img src="/images/skt3.jpg" width="480" height="480">
 </div>  
 
@@ -79,8 +79,8 @@ title: Activities
 - **Cooking**
 
 <div class="third">  
-  <img src="/images/ck1.jpg" width="480" height="480">&nbsp;
-  <img src="/images/ck3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/ck1.jpg" width="480" height="480">
+  <img src="/images/ck3.jpg" width="480" height="480">
   <img src="/images/ck3.jpg" width="480" height="480">
 </div> 
 
@@ -93,8 +93,8 @@ title: Activities
 - **Photography**
 
 <div class="third">  
-  <img src="/images/photo1.jpg" width="480" height="480">&nbsp;
-  <img src="/images/photo2.jpg" width="480" height="480">&nbsp;
+  <img src="/images/photo1.jpg" width="480" height="480">
+  <img src="/images/photo2.jpg" width="480" height="480">
   <img src="/images/photo3.jpg" width="480" height="480">
 </div>  
 
@@ -107,8 +107,8 @@ title: Activities
 - **My Dogs**
 
 <div class="third">  
-  <img src="/images/dog1.jpg" width="480" height="480">&nbsp;
-  <img src="/images/dog2.jpg" width="480" height="480">&nbsp;
+  <img src="/images/dog1.jpg" width="480" height="480">
+  <img src="/images/dog2.jpg" width="480" height="480">
   <img src="/images/dog3.jpg" width="480" height="480">
 </div>  
 
