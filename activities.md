@@ -11,12 +11,11 @@ title: Activities
 <div class="third">  
   <img src="/images/zb1.jpg" width="480" height="480">&nbsp;
   <img src="/images/zb3.jpg" width="480" height="480">&nbsp;
-  <img src="/images/zb3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/zb3.jpg" width="480" height="480">
 </div> 
 
   The first time to be on-site for a construction project~<br> 
-  It's just so amazing to witness a model turning into a real-life building,<br>
-  and even more amazaing to be a member of the construction team!
+  It's just so amazing to witness a model turning into a real-life building,and even more amazaing to be a member of the construction team!
 
 <br>
 
@@ -25,11 +24,11 @@ title: Activities
 <div class="third">  
   <img src="/images/gg1.jpg" width="480" height="480">&nbsp;
   <img src="/images/gg3.jpg" width="480" height="480">&nbsp;
-  <img src="/images/gg3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/gg3.jpg" width="480" height="480">
 </div> 
 
   Enjoying the empty Forbidden City on a Monday!<br>
-    The ancient architecture can always provide us architects with boundless inspiration and enlightenment (*^▽^*)
+  The ancient architecture can always provide us architects with boundless inspiration and enlightenment (*^▽^*)
 
 <br>
 
@@ -42,10 +41,10 @@ title: Activities
 <div class="third">  
   <img src="/images/txl1.jpg" width="480" height="480">&nbsp;
   <img src="/images/txl3.jpg" width="480" height="480">&nbsp;
-  <img src="/images/txl3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/txl3.jpg" width="480" height="480">
 </div> 
 
-    Organizing academic conferences and student activities has given me the opportunity to meet many talented scholars and fascinating peers. The pursuits of architects and urban designers can be diverse, and their experience constantly inspire me.
+  Organizing academic conferences and student activities has given me the opportunity to meet many talented scholars and fascinating peers.The pursuits of architects and urban designers can be diverse, and their experience constantly inspire me.
 
 <br>
 
@@ -54,7 +53,7 @@ title: Activities
 <div class="third">  
   <img src="/images/zy1.jpg" width="480" height="480">&nbsp;
   <img src="/images/zy3.jpg" width="480" height="480">&nbsp;
-  <img src="/images/zy3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/zy3.jpg" width="480" height="480">
 </div> 
 
   Our volunteer activities mainly involve collaborating with communities in Nanjing to provide architectural aesthetic education for teenagers. We believe that everyone is an architect of their own living space, and architecture/urban design is not just about building houses but shaping a better society.
@@ -70,10 +69,10 @@ title: Activities
 <div class="third">  
   <img src="/images/skt1.jpg" width="480" height="480">&nbsp;
   <img src="/images/skt3.jpg" width="480" height="480">&nbsp;
-  <img src="/images/skt3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/skt3.jpg" width="480" height="480">
 </div>  
 
-Drawing can make me feel peace and at ease, especially with my earphone on.
+  Drawing can make me feel peace and at ease, especially with my earphone on.
 
 <br>
 
@@ -82,7 +81,7 @@ Drawing can make me feel peace and at ease, especially with my earphone on.
 <div class="third">  
   <img src="/images/ck1.jpg" width="480" height="480">&nbsp;
   <img src="/images/ck3.jpg" width="480" height="480">&nbsp;
-  <img src="/images/ck3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/ck3.jpg" width="480" height="480">
 </div> 
 
   Inspired by Julia Child, I have gradually fallen in love with cooking. 
@@ -96,7 +95,7 @@ Drawing can make me feel peace and at ease, especially with my earphone on.
 <div class="third">  
   <img src="/images/photo1.jpg" width="480" height="480">&nbsp;
   <img src="/images/photo2.jpg" width="480" height="480">&nbsp;
-  <img src="/images/photo3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/photo3.jpg" width="480" height="480">
 </div>  
 
   I bought my Canon LSD with my first scholarship.<br>
@@ -105,27 +104,18 @@ Drawing can make me feel peace and at ease, especially with my earphone on.
 
 <br>
 
-- **Piano**
-
-#<img src="/images/prelection1.JPG">
-
-  Technically, I didn't have my own piano but an electronic keyboard.
-  But I still miss the sense of fulfillment I used to experience sitting in front of it for hours.
-
-<br>
-
-- **My dogs**
+- **My Dogs**
 
 <div class="third">  
   <img src="/images/dog1.jpg" width="480" height="480">&nbsp;
   <img src="/images/dog2.jpg" width="480" height="480">&nbsp;
-  <img src="/images/dog3.jpg" width="480" height="480">&nbsp;
-</div>   
+  <img src="/images/dog3.jpg" width="480" height="480">
+</div>  
 
-I have two little dogs, Meatball and Bony.<br> 
-Just like their names, one is a little bit chubby and the other is skinny, but they are both adorable.
+  I have two little dogs, Meatball and Bony.
+  Just like their names, one is a little bit chubby and the other is skinny, but they are both adorable.
 
 <br>
 
----
+
 
