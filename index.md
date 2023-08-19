@@ -44,8 +44,8 @@ Here is [my Curriculum Vitae](https://Ariachenyinan.github.io/file/CHENYINAN_CV.
 
 **Contact me if you are interested!**
 
-- Urban informatics and analysis
-- Urban perception
+- Urban Informatics and Urban Dta Analysis
+- Urban Perception
 - Walkability
 - Urban Design
 
@@ -64,7 +64,7 @@ My current research interests is to utilize **urban multi-source big data** and 
 - **October 2022：**
   Abstract accepted by CAADRIA·2022
 - **October 2022：**
-  Happy to be awarded National Scholarship for Postgraduates (National·0.2%)
+  Happy to be awarded National Scholarship for Postgraduates 
 - **July 2022：**
   Happy to be a volunteer of the School of Architecture for the 120th anniversary of SEU and welcomed the 2012 Pritzker Prize laureate, Prof. Wang Shu
 - **September 2021：**
@@ -72,7 +72,7 @@ My current research interests is to utilize **urban multi-source big data** and 
 - **May 2021：**
   Happy to be a member of the joint Team of SEU and ETH and participated in The 3rd Solar Decathlon China
 - **June 2021：**
-  Excited to graduate as Outstanding Graduates (Undergraduate) of Southeast University (SEU·0.5%)
+  Excited to graduate as Outstanding Graduates (Undergraduate) of Southeast University 
 - **July 2020：**
   Thrilled to receive the exchange invitation from Sapienza University of Rome (But sadly got cancelled due to Covid-19 o(╥﹏╥)o)
 - **June 2017：**

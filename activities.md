@@ -28,7 +28,7 @@ title: Activities
 
 ## 2. Social Services
 
-- **Students' Union**
+- **Students' Union in School of Architecture, SEU**
 
 <img src="/images/3.png">
 
