@@ -3,27 +3,15 @@ layout: page
 permalink: /activities/index.html
 title: Activities
 ---
-
-<style>  
-  .image-container {  
-    display: flex;  
-    justify-content: space-between;  
-    align-items: center;  
-  }  
-    
-  .image-container img {  
-    margin-right: 10px; /* 设置图片之间的空格大小 */  
-  }  
-</style>  
-  
-## On-site Research 
+ 
+## 1. On-site Research 
 
 - **The 3rd Solar Decathlon China, Solar Ark 3.0 (Joint Team of SEU and ETH)**
 
-<div class="image-container">  
-  <img src="/images/zb1.jpg" alt="Image 1">  
-  <img src="/images/zb2.jpg" alt="Image 2">  
-  <img src="/images/zb3.jpg" alt="Image 3">  
+<div class="third">  
+  <img src="/images/zb1.jpg" width="480" height="480">&nbsp;
+  <img src="/images/zb3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/zb3.jpg" width="480" height="480">&nbsp;
 </div> 
 
   The first time to be on-site for a construction project~<br> 
@@ -34,10 +22,10 @@ title: Activities
 
 - **Research on ancient buildings in the Forbidden City.**
 
-<div class="image-container">  
-  <img src="/images/gg1.jpg" alt="Image 1">  
-  <img src="/images/gg2.jpg" alt="Image 2">  
-  <img src="/images/gg3.jpg" alt="Image 3">  
+<div class="third">  
+  <img src="/images/gg1.jpg" width="480" height="480">&nbsp;
+  <img src="/images/gg3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/gg3.jpg" width="480" height="480">&nbsp;
 </div> 
 
   Enjoying the empty Forbidden City on a Monday!<br>
@@ -47,15 +35,14 @@ title: Activities
 
 ---
 
-
-## Social Services
+## 2. Social Services
 
 - **Students' Union**
 
-<div class="image-container">  
-  <img src="/images/txl1.jpg" alt="Image 1">  
-  <img src="/images/txl2.jpg" alt="Image 2">  
-  <img src="/images/txl3.jpg" alt="Image 3">  
+<div class="third">  
+  <img src="/images/txl1.jpg" width="480" height="480">&nbsp;
+  <img src="/images/txl3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/txl3.jpg" width="480" height="480">&nbsp;
 </div> 
 
     Organizing academic conferences and student activities has given me the opportunity to meet many talented scholars and fascinating peers. The pursuits of architects and urban designers can be diverse, and their experience constantly inspire me.
@@ -64,10 +51,10 @@ title: Activities
 
 - **Vulunteer Asscociate**
 
-<div class="image-container">  
-  <img src="/images/zy1.jpg" alt="Image 1">  
-  <img src="/images/zy2.jpg" alt="Image 2">  
-  <img src="/images/zy3.jpg" alt="Image 3">  
+<div class="third">  
+  <img src="/images/zy1.jpg" width="480" height="480">&nbsp;
+  <img src="/images/zy3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/zy3.jpg" width="480" height="480">&nbsp;
 </div> 
 
   Our volunteer activities mainly involve collaborating with communities in Nanjing to provide architectural aesthetic education for teenagers. We believe that everyone is an architect of their own living space, and architecture/urban design is not just about building houses but shaping a better society.
@@ -76,16 +63,15 @@ title: Activities
 
 ---
 
-
-## Hobbies
+## 3. Hobbies
 
 - **Sketching & Drawing**
 
-<div class="image-container">  
-  <img src="/images/skt1.jpg" alt="Image 1">  
-  <img src="/images/skt2.jpg" alt="Image 2">  
-  <img src="/images/skt3.jpg" alt="Image 3">  
-</div> 
+<div class="third">  
+  <img src="/images/skt1.jpg" width="480" height="480">&nbsp;
+  <img src="/images/skt3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/skt3.jpg" width="480" height="480">&nbsp;
+</div>  
 
 Drawing can make me feel peace and at ease, especially with my earphone on.
 
@@ -93,10 +79,10 @@ Drawing can make me feel peace and at ease, especially with my earphone on.
 
 - **Cooking**
 
-<div class="image-container">  
-  <img src="/images/ck1.jpg" alt="Image 1">  
-  <img src="/images/ck2.jpg" alt="Image 2">  
-  <img src="/images/ck3.jpg" alt="Image 3">  
+<div class="third">  
+  <img src="/images/ck1.jpg" width="480" height="480">&nbsp;
+  <img src="/images/ck3.jpg" width="480" height="480">&nbsp;
+  <img src="/images/ck3.jpg" width="480" height="480">&nbsp;
 </div> 
 
   Inspired by Julia Child, I have gradually fallen in love with cooking. 
@@ -107,11 +93,11 @@ Drawing can make me feel peace and at ease, especially with my earphone on.
 
 - **Photography**
 
-<div class="image-container">  
-  <img src="/images/photo1.jpg" alt="Image 1">  
-  <img src="/images/photo2.jpg" alt="Image 2">  
-  <img src="/images/photo3.jpg" alt="Image 3">  
-</div> 
+<div class="third">  
+  <img src="/images/photo1.jpg" width="480" height="480">&nbsp;
+  <img src="/images/photo2.jpg" width="480" height="480">&nbsp;
+  <img src="/images/photo3.jpg" width="480" height="480">&nbsp;
+</div>  
 
   I bought my Canon LSD with my first scholarship.<br>
   Whenever I have free time, I love taking it for a city walk. <br>
@@ -130,11 +116,11 @@ Drawing can make me feel peace and at ease, especially with my earphone on.
 
 - **My dogs**
 
-<div class="image-container">  
-  <img src="/images/dog1.jpg" alt="Image 1">  
-  <img src="/images/dog2.jpg" alt="Image 2">  
-  <img src="/images/dog3.jpg" alt="Image 3">  
-</div> 
+<div class="third">  
+  <img src="/images/dog1.jpg" width="480" height="480">&nbsp;
+  <img src="/images/dog2.jpg" width="480" height="480">&nbsp;
+  <img src="/images/dog3.jpg" width="480" height="480">&nbsp;
+</div>   
 
 I have two little dogs, Meatball and Bony.<br> 
 Just like their names, one is a little bit chubby and the other is skinny, but they are both adorable.

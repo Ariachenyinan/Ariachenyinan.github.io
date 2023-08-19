@@ -12,9 +12,7 @@ Here is **CHEN YINAN (Aria, 陈轶男)**.
 
 <br>
 
-I am currently a postgraduate student majoring<br> 
-in **Architecture** at Southeast University and<br>
-tutored by [Prof. Wang Jianguo](https://arch.seu.edu.cn/jz_en/2019/1115/c41169a410116/page.htm) in Urban Design<br> Research Center. 
+I am currently a postgraduate student majoring in **Architecture** at Southeast University and tutored by [Prof. Wang Jianguo](https://arch.seu.edu.cn/jz_en/2019/1115/c41169a410116/page.htm) in Urban Design Research Center. 
 
 <br>
 
