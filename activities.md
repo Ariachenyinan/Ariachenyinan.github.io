@@ -9,9 +9,9 @@ title: Activities
 - **The 3rd Solar Decathlon China, Solar Ark 3.0 (Joint Team of SEU and ETH)**
 
 <div class="third">  
-  <img src="/images/zb1.jpg" width="480" height="480">
-  <img src="/images/zb3.jpg" width="480" height="480">
-  <img src="/images/zb3.jpg" width="480" height="480">
+  <img src="/images/zb1.jpg" height="480">
+  <img src="/images/zb2.jpg" height="480">
+  <img src="/images/zb3.jpg" height="480">
 </div> 
 
   The first time to be on-site for a construction project~<br> 
@@ -22,9 +22,9 @@ title: Activities
 - **Research on ancient buildings in the Forbidden City.**
 
 <div class="third">  
-  <img src="/images/gg1.jpg" width="480" height="480">
-  <img src="/images/gg3.jpg" width="480" height="480">
-  <img src="/images/gg3.jpg" width="480" height="480">
+  <img src="/images/gg1.jpg" height="480">
+  <img src="/images/gg2.jpg" height="480">
+  <img src="/images/gg3.jpg" height="480">
 </div> 
 
   Enjoying the empty Forbidden City on a Monday!<br>
@@ -39,9 +39,9 @@ title: Activities
 - **Students' Union**
 
 <div class="third">  
-  <img src="/images/txl1.jpg" width="480" height="480">
-  <img src="/images/txl3.jpg" width="480" height="480">
-  <img src="/images/txl3.jpg" width="480" height="480">
+  <img src="/images/txl1.jpg" height="480">
+  <img src="/images/txl2.jpg" height="480">
+  <img src="/images/txl3.jpg" height="480">
 </div> 
 
   Organizing academic conferences and student activities has given me the opportunity to meet many talented scholars and fascinating peers.The pursuits of architects and urban designers can be diverse, and their experience constantly inspire me.
@@ -51,9 +51,9 @@ title: Activities
 - **Vulunteer Asscociate**
 
 <div class="third">  
-  <img src="/images/zy1.jpg" width="480" height="480">
-  <img src="/images/zy3.jpg" width="480" height="480">
-  <img src="/images/zy3.jpg" width="480" height="480">
+  <img src="/images/zy1.jpg" height="480">
+  <img src="/images/zy2.jpg" height="480">
+  <img src="/images/zy3.jpg" height="480">
 </div> 
 
   Our volunteer activities mainly involve collaborating with communities in Nanjing to provide architectural aesthetic education for teenagers. We believe that everyone is an architect of their own living space, and architecture/urban design is not just about building houses but shaping a better society.
@@ -67,9 +67,9 @@ title: Activities
 - **Sketching & Drawing**
 
 <div class="third">  
-  <img src="/images/skt1.jpg" width="480" height="480">
-  <img src="/images/skt3.jpg" width="480" height="480">
-  <img src="/images/skt3.jpg" width="480" height="480">
+  <img src="/images/skt1.jpg" height="480">
+  <img src="/images/skt2.jpg" height="480">
+  <img src="/images/skt3.jpg" height="480">
 </div>  
 
   Drawing can make me feel peace and at ease, especially with my earphone on.
@@ -79,9 +79,9 @@ title: Activities
 - **Cooking**
 
 <div class="third">  
-  <img src="/images/ck1.jpg" width="480" height="480">
-  <img src="/images/ck3.jpg" width="480" height="480">
-  <img src="/images/ck3.jpg" width="480" height="480">
+  <img src="/images/ck1.jpg" height="480">
+  <img src="/images/ck2.jpg" height="480">
+  <img src="/images/ck3.jpg" height="480">
 </div> 
 
   Inspired by Julia Child, I have gradually fallen in love with cooking. 
@@ -93,12 +93,12 @@ title: Activities
 - **Photography**
 
 <div class="third">  
-  <img src="/images/photo1.jpg" width="480" height="480">
-  <img src="/images/photo2.jpg" width="480" height="480">
-  <img src="/images/photo3.jpg" width="480" height="480">
+  <img src="/images/photo1.jpg" height="480">
+  <img src="/images/photo2.jpg" height="480">
+  <img src="/images/photo3.jpg" height="480">
 </div>  
 
-  I bought my Canon LSD with my first scholarship.<br>
+  I bought my Canon with my first scholarship.<br>
   Whenever I have free time, I love taking it for a city walk. <br>
   The streets filled with vibrant city life and the beauty of flowers and trees always touch my heart.
 
@@ -107,9 +107,9 @@ title: Activities
 - **My Dogs**
 
 <div class="third">  
-  <img src="/images/dog1.jpg" width="480" height="480">
-  <img src="/images/dog2.jpg" width="480" height="480">
-  <img src="/images/dog3.jpg" width="480" height="480">
+  <img src="/images/dog1.jpg" height="480">
+  <img src="/images/dog2.jpg" height="480">
+  <img src="/images/dog3.jpg" height="480">
 </div>  
 
   I have two little dogs, Meatball and Bony.
