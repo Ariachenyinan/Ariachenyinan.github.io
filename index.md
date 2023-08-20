@@ -44,7 +44,7 @@ Here is [my Curriculum Vitae](https://Ariachenyinan.github.io/file/CHENYINAN_CV.
 
 **Contact me if you are interested!**
 
-- Urban Informatics and Urban Dta Analysis
+- Urban Informatics and Urban Data Analysis
 - Urban Perception
 - Walkability
 - Urban Design
