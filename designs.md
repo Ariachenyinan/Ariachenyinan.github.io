@@ -8,8 +8,8 @@ title: Designs
 
 ### 2021
 
-- **Jiuxianqiao Regeneration plan· community section **<br>
-  *Chen Yinan. Tutored by A.P. Xia Bing, Zhou Lin (SEU)*
+- **Jiuxianqiao Regeneration plan _ community section **<br>
+  *Chen Yinan. Tutored by A.P. Xia Bing, A.P. Zhou Lin (SEU)*
    <br>
 
    Utilizing versatile “plug-in” modules that are easy to dismantle and transport to make the most of vacant land in old residential areas and improve infrastructure.
@@ -45,7 +45,7 @@ title: Designs
 ### 2019
 
 - **Old Square -- Renovation of Nantong Dasheng Textile Factory**<br>
-  *Chen Yinan, Li Shixuan. Tutored by Prof. Li Haiqing (SEU)*
+  *Chen Yinan, Li Shixuan. Tutored by Prof. Li Haiqing (SEU) *
   <br>
 
    Transformation of old factory buildings into an urban living room for intergenerational communication between youth and elderly.
@@ -72,7 +72,7 @@ title: Designs
 <img src="/images/daxue.png">
 
 ### 2018
-- ** Block House -- Kindergarten Design**<br>
+- **Block House -- Kindergarten Design**<br>
   *Chen Yinan. Tutored by A.P. Yu Chuanfei (SEU)*
   <br>
 
