@@ -7,7 +7,7 @@ title: Researches
 
 ### 2023
 
-- **1.&nbsp; Research on the Correlation between City Diversity and Urban Perception [(Click for detail)](https://ariachenyinan.github.io/researches/1) **
+- **1.&nbsp; Research on the Correlation between City Diversity and Urban Perception [(Click for detail)](https://ariachenyinan.github.io/researches/1)**
   <br>
   *Group leader, Supervised by Tu Han (MIT)*
 
