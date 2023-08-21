@@ -14,7 +14,7 @@ Here is **CHEN YINAN (Aria, 陈轶男)**.
 
 <p style="text-align: justify;"> 
 I am currently a postgraduate student majoring in **Architecture** at Southeast University and tutored by [Prof. Wang Jianguo](https://arch.seu.edu.cn/jz_en/2019/1115/c41169a410116/page.htm) in Urban Design Research Center. 
-<p>
+</p>
 
 <br>
 
@@ -53,7 +53,7 @@ Here is [my Curriculum Vitae](https://Ariachenyinan.github.io/file/CHENYINAN_CV.
 
 <p style="text-align: justify;"> 
 My current research interests is to utilize **urban multi-source big data** and **machine Learning** to **quantitatively** study the relationship between the built environment and people's behaviors to **help promote human-centered urbanism**.
-<p>
+</p>
 
 <br>
 
@@ -86,4 +86,4 @@ My current research interests is to utilize **urban multi-source big data** and 
   Joined the Students' Union in School of Architecture, SEU
 - **August 2016：**
   Major transferred from School of Environment and Energy to School of Architecture, SEU
-<p>
+</p>

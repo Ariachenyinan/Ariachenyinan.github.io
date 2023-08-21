@@ -14,7 +14,7 @@ title: Designs
 
 <p style="text-align: justify;">  
    Utilizing versatile “plug-in” modules that are easy to dismantle and transport to make the most of vacant land in old residential areas and improve infrastructure.
-<p>
+</p>
 <br>
 
 <img src="/images/bishe.png">
@@ -34,7 +34,7 @@ title: Designs
 
 <p style="text-align: justify;"> 
    Multi-functional urban RBD (Recreational Business District) design based on optimal lighting and spatial syntax
-<p>   
+</p>  
 <br>
 
 
@@ -55,7 +55,7 @@ title: Designs
 
 <p style="text-align: justify;"> 
    Transformation of old factory buildings into an urban living room for intergenerational communication between youth and elderly.
-<p>   
+</p>   
 <br>
 
 <img src="/images/tangzha.png">
@@ -66,7 +66,7 @@ title: Designs
 
 <p style="text-align: justify;"> 
    Regenration of traditional neighborhoods with a blend of old and new elements, emphasizing high utilization.
-<p>   
+</p>   
 <br>
 
 <img src="/images/xiaoxihu.png">
@@ -77,7 +77,7 @@ title: Designs
 
 <p style="text-align: justify;"> 
   A multifuntional building with structure system inspired by trees, surrounded by compact spaces.
-<p>  
+</p>  
 <br>
 
 <img src="/images/daxue.png">
@@ -89,7 +89,7 @@ title: Designs
 
 <p style="text-align: justify;"> 
   A kindergarten designed like building blocks, blending playfulness with nature.
-<P>  
+</P>  
 <br>
 
 <img src="/images/youer.png">
@@ -100,7 +100,7 @@ title: Designs
 
 <p style="text-align: justify;"> 
    The harmonious coexistence of old buildings, water fir trees, and new venues.
-<p>  
+</p>  
 <br>
 
 <img src="/images/tiyuguan.png">
