@@ -8,10 +8,12 @@ title: Designs
 
 ### 2021
 
-- **酒仙桥**<br>
+- **Jiuxianqiao Regeneration plan· community section **<br>
   *Chen Yinan. Tutored by A.P. Xia Bing, Zhou Lin (SEU)*
+   <br>
 
-  利用易拆卸与运输的多功能“插件”来提高老旧小区闲置地的利用效率，完善基础设施
+   Utilizing versatile “plug-in” modules that are easy to dismantle and transport to make the most of vacant land in old residential areas and improve infrastructure.
+ <br>
 
 <img src="/images/bishe.png">
 
@@ -24,10 +26,12 @@ title: Designs
 
 ### 2020
 
-- **江心洲**<br>
+- **Stacking Stones and Winding Water -- Green Urban Design and Research of RBD Central Area**<br>
   *Chen Yinan, Lin Kaiyi. Tutored by Prof. Xu Xiaodong (SEU)*
+   <br>
 
-    基于光照最优与空间句法的多功能城市RBD设计
+   Multi-functional urban RBD (Recreational Business District) design based on optimal lighting and spatial syntax
+   <br>
 
 <img src="/images/jiangxinzhou.png">
 
@@ -40,39 +44,49 @@ title: Designs
 
 ### 2019
 
-- **唐闸**<br>
+- **Old Square -- Renovation of Nantong Dasheng Textile Factory**<br>
   *Chen Yinan, Li Shixuan. Tutored by Prof. Li Haiqing (SEU)*
+  <br>
 
-  老旧厂房改造，青年人与老年人交流的城市客厅
+   Transformation of old factory buildings into an urban living room for intergenerational communication between youth and elderly.
+   <br>
 
 <img src="/images/tangzha.png">
 
-- **小西湖**<br>
+- **Up and down -- Transformation of Corner Plot in Xiaoxihu Historical District**<br>
   *Chen Yinan, Zhang Zhenyu, Bao Yang. Tutored by Prof. Bao Li (SEU) and Prof. Marco Trisciuoglio (Politecnico di Torino) *
-  
-  新旧交融，高利用率的传统街区改造
+   <br>
+
+   Regenration of traditional neighborhoods with a blend of old and new elements, emphasizing high utilization.
+   <br>
 
 <img src="/images/xiaoxihu.png">
 
-- **大学生活动中心**<br>
+- **Boxes up to trees --University Student Entrepreneurship Exhibition Center**<br>
   *Chen Yinan. Tutored by A.P. Deng Hao (SEU)*
+  <br>
 
-  灵感来自于树的建筑结构，被小空间包围的开敞空间
+  A multifuntional building with structure system inspired by trees, surrounded by compact spaces.
+  <br>
 
 <img src="/images/daxue.png">
 
 ### 2018
-- **幼儿园**<br>
+- ** Block House -- Kindergarten Design**<br>
   *Chen Yinan. Tutored by A.P. Yu Chuanfei (SEU)*
+  <br>
 
-  像堆积木一样的幼儿园，让童趣结合自然
+  A kindergarten designed like building blocks, blending playfulness with nature.
+  <br>
 
 <img src="/images/youer.png">
 
-- **体育馆**<br>
+- **Within Trees -- University Student Fitness Center and Service Center Design**<br>
   *Chen Yinan, Lin Kaiyi. Tutored by Assco.Prof.Zhou Lin (SEU)*
+  <br>
 
-   老建筑、水杉树与新场馆的和谐共生
+   The harmonious coexistence of old buildings, water fir trees, and new venues.
+  <br>
 
 <img src="/images/tiyuguan.png">
 <br>
