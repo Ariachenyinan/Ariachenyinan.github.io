@@ -82,9 +82,7 @@ title: Activities
 <img src="/images/7.png"> 
 
 <p style="text-align: justify;"> 
-  I bought my Canon with my first scholarship.<br>
-  Whenever I have free time, I love taking it for a city walk. <br>
-  The streets filled with vibrant city life and the beauty of flowers and trees always touch my heart.
+  I bought my Canon with my first scholarship. Whenever I have free time, I love taking it for a city walk. The streets filled with vibrant city life and the beauty of flowers and trees always touch my heart.
 </p>
 <br>
 
