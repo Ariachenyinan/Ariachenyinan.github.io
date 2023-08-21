@@ -16,8 +16,8 @@ Lastest Update: 18st Aug 2023&nbsp;
 - **November 2020:** Jiangsu Provincial Construction Award                   -¥5000/$690
 - **April 2019:**    Jianlang Scholarship                                    -¥3000/$410
 - **2016-2020:**     Cyrus Tang Scholarship                                  -¥4000*4/$2200
-<br>
 
+<br>
 
 ---
 
@@ -28,8 +28,8 @@ Lastest Update: 18st Aug 2023&nbsp;
 - **May 2022:**      First Prize in The 10th Simulated International Conference Competition of Southeast University
 - **November 2021:** Bronze Prize in The 7th China Residential Environment Design Academic Year Award
 - **January 2016:**  Outstanding Award in the 6th Undergraduate Innovation Competition of Southeast University 
-<br>
 
+<br>
 
 ---
 
