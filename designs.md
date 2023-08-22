@@ -142,7 +142,7 @@ title: Designs
   <br>
 
 <p style="text-align: justify;"> 
-   The harmonious coexistence of old buildings, metasequoia trees, and new functions.
+   The harmonious coexistence of old buildings, metasequoia trees, and new functions for students.
 </p>  
 <br>
 
