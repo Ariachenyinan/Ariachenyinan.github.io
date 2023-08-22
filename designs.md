@@ -46,6 +46,7 @@ title: Designs
   }  
 </script>  
   
+ 
 ## 1.&nbsp;Graduation Design Project
 
 ### 2021
@@ -141,7 +142,7 @@ title: Designs
   <br>
 
 <p style="text-align: justify;"> 
-   The harmonious coexistence of old buildings, water fir trees, and new venues.
+   The harmonious coexistence of old buildings, metasequoia trees, and new functions.
 </p>  
 <br>
 
