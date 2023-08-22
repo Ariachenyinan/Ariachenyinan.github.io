@@ -26,7 +26,7 @@ title: Researches
   *Group member, Supervised by Prof. Wang Jianguo (Southeast University)*
 
 ### 2021
-- **5.&nbsp; Research on Transportation Infrastructure Urbanization
+- **5.&nbsp; Research on Transportation Infrastructure Urbanization**
   <br>
   *Group member, Supervised by Postdoc. Yang Liu (Southeast University)*
   <br>
