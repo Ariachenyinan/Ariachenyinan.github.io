@@ -114,7 +114,7 @@ title: Activities
 <img src="/images/6.png" alt="Image" class="enlarge-image" onclick="enlargeImage(this);">
 
 <p style="text-align: justify;"> 
-  Inspired by Julia Child, I have gradually fallen in love with cooking. Food is like breeze and has the magic healing power, and just like Mrs. Child, it's never too late to pursue what you truly love.
+  Inspired by Julia Child, I have gradually fallen in love with cooking. Food has the magic healing power, and just like Mrs. Child, it's never too late to pursue what you truly love.
 </p>
 <br>
 
