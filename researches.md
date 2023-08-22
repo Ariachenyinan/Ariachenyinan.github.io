@@ -21,17 +21,9 @@ title: Researches
   <br>
   *Major member, Supervised by Associate Researcher Li Li (Southeast University)*
 
-- **4.&nbsp; Urban Renewal Project in Xiaoqinhuai, Yangzhou, Jiangsu [(Click for detail)](https://ariachenyinan.github.io/researches/4)**
+- **4.&nbsp; POI Analysis of Urban Renewal Project in Xiaoqinhuai, Yangzhou, Jiangsu [(Click for detail)](https://ariachenyinan.github.io/researches/4)**
   <br>
   *Group member, Supervised by Prof. Wang Jianguo (Southeast University)*
-
-### 2021
-
-- **5.&nbsp; Research on Transportation Infrastructure Urbanization [(Click for detail)](https://ariachenyinan.github.io/researches/5)**
-  <br>
-  *Group member, Supervised by Postdoc. Yang Liu (Southeast University)*
-  <br>
-  *Natural Science Foundation of Jiangsu Province (Youth Program), No. BK20210260*
 
 <br>
 
