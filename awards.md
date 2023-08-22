@@ -10,7 +10,7 @@ Lastest Update: 18 Aug 2023&nbsp;
 
 ## Scholarships
 
-- **October 2022:**  National Scholarship for Postgraduates(National·0.2%)   - ¥20000/$2750
+- **October 2022:**  National Scholarship for Postgraduates (National·0.2%)  - ¥20000/$2750
 - **October 2022:**  First Prize Scholarship for Postgraduates (SEU·0.2%)    - ¥12000/$1645
 - **October 2021:**  First Prize Scholarship for Postgraduates (SEU·0.2%)    - ¥10000/$1370
 - **November 2020:** Jiangsu Provincial Construction Award                   -¥5000/$690
