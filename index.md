@@ -46,7 +46,7 @@ layout: page
   
 <img src="https://Ariachenyinan.github.io/chenyinan.jpg" class="floatpic" width="360" height="480" alt="Image" class="enlarge-image" onclick="enlargeImage(this);" >
 
-Hi! Welcome to my website!!!
+Hi! Welcome to my website!!
 
 Here is **CHEN YINAN (Aria, 陈轶男)**.
 
