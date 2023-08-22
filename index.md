@@ -3,10 +3,50 @@ layout: page
 ---
 
 
+<style>  
+  .enlarge-image {  
+    cursor: pointer;  
+  }  
+    
+  .enlarged-image {  
+    position: fixed;  
+    top: 0;  
+    left: 0;  
+    right: 0;  
+    bottom: 0;  
+    background-color: rgba(0, 0, 0, 0.8);  
+    display: flex;  
+    justify-content: center;  
+    align-items: center;  
+    z-index: 9999;  
+  }  
+    
+  .enlarged-image img {  
+    max-width: 90%;  
+    max-height: 90%;  
+  }  
+</style>  
+  
+<script>  
+  function enlargeImage(image) {  
+    var enlargedImage = document.createElement('div');  
+    enlargedImage.className = 'enlarged-image';  
+      
+    var img = document.createElement('img');  
+    img.src = image.src;  
+      
+    enlargedImage.appendChild(img);  
+    document.body.appendChild(enlargedImage);  
+      
+    enlargedImage.addEventListener('click', function() {  
+      document.body.removeChild(enlargedImage);  
+    });  
+  }  
+</script>  
+  
+<img src="https://Ariachenyinan.github.io/chenyinan.jpg" class="floatpic" width="360" height="480" alt="Image" class="enlarge-image" onclick="enlargeImage(this);" >
 
-<img src="https://Ariachenyinan.github.io/chenyinan.jpg" class="floatpic" width="360" height="480">
-
-Hi! Welcome to my website!
+Hi! Welcome to my website!!!
 
 Here is **CHEN YINAN (Aria, 陈轶男)**.
 
