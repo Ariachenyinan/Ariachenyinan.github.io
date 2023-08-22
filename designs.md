@@ -138,7 +138,7 @@ title: Designs
 <img src="/images/youer.png" alt="Image" class="enlarge-image" onclick="enlargeImage(this);">
 
 - **Within Trees -- University Student Fitness Center and Service Center Design**<br>
-  *Chen Yinan, Lin Kaiyi. Tutored by Assco.Prof.Zhou Lin (SEU)*
+  *Chen Yinan, Lin Kaiyi. Tutored by A.P. Zhou Lin (SEU)*
   <br>
 
 <p style="text-align: justify;"> 
