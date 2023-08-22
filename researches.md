@@ -27,9 +27,11 @@ title: Researches
 
 ### 2021
 
-- **5.&nbsp; Research on Infrastructure Urbanization [(Click for detail)](https://ariachenyinan.github.io/researches/5)**
+- **5.&nbsp; Research on Transportation Infrastructure Urbanization [(Click for detail)](https://ariachenyinan.github.io/researches/5)**
   <br>
   *Group member, Supervised by Postdoc. Yang Liu (Southeast University)*
+  <br>
+  *Natural Science Foundation of Jiangsu Province (Youth Program), No. BK20210260*
 
 <br>
 
