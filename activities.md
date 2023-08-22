@@ -17,7 +17,7 @@ title: Activities
 <br>
 
 
-- **Research on ancient buildings in the Forbidden City**
+- **Research on Ancient Buildings in the Forbidden City**
 
 <img src="/images/2.png">
 
@@ -42,7 +42,7 @@ title: Activities
 <br>
 
 
-- **Vulunteer Asscociate**
+- **Volunteer Asscociate of Arch.SEU**
 
 <img src="/images/4.png">
 

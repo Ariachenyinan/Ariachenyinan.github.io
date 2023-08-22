@@ -50,7 +50,7 @@ Here is [my Curriculum Vitae](https://Ariachenyinan.github.io/file/CHENYINAN_CV.
 - Urban Design
 
 <p style="text-align: justify;"> 
-My current research interests is to utilize <strong>urban multi-source big data</strong> and <strong>machine Learning</strong> to <strong>quantitatively</strong> study the relationship between the built environment and people's behaviors to <strong>help promote human-centered urbanism</strong>.
+My current research interest is to utilize <strong>urban multi-source big data</strong> and <strong>machine Learning</strong> to <strong>quantitatively</strong> study the relationship between the built environment and people's behaviors to <strong>help promote human-centered urbanism</strong>.
 </p>
 
 <br>
