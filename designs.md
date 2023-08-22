@@ -4,6 +4,48 @@ permalink: /designs/index.html
 title: Designs
 ---
 
+
+<style>  
+  .enlarge-image {  
+    cursor: pointer;  
+  }  
+    
+  .enlarged-image {  
+    position: fixed;  
+    top: 0;  
+    left: 0;  
+    right: 0;  
+    bottom: 0;  
+    background-color: rgba(0, 0, 0, 0.8);  
+    display: flex;  
+    justify-content: center;  
+    align-items: center;  
+    z-index: 9999;  
+  }  
+    
+  .enlarged-image img {  
+    max-width: 90%;  
+    max-height: 90%;  
+  }  
+</style>  
+  
+<script>  
+  function enlargeImage(image) {  
+    var enlargedImage = document.createElement('div');  
+    enlargedImage.className = 'enlarged-image';  
+      
+    var img = document.createElement('img');  
+    img.src = image.src;  
+      
+    enlargedImage.appendChild(img);  
+    document.body.appendChild(enlargedImage);  
+      
+    enlargedImage.addEventListener('click', function() {  
+      document.body.removeChild(enlargedImage);  
+    });  
+  }  
+</script>  
+  
 ## 1.&nbsp;Graduation Design Project
 
 ### 2021
@@ -17,7 +59,7 @@ title: Designs
 </p>
 <br>
 
-<img src="/images/bishe.png">
+<img src="/images/bishe.png" alt="Image" class="enlarge-image" onclick="enlargeImage(this);">
 
 <br>
 
@@ -38,7 +80,7 @@ title: Designs
 <br>
 
 
-<img src="/images/jiangxinzhou.png">
+<img src="/images/jiangxinzhou.png" alt="Image" class="enlarge-image" onclick="enlargeImage(this);">
 
 <br>
 
@@ -58,7 +100,7 @@ title: Designs
 </p>   
 <br>
 
-<img src="/images/tangzha.png">
+<img src="/images/tangzha.png" alt="Image" class="enlarge-image" onclick="enlargeImage(this);">
 
 - **Up and down -- Transformation of Corner Plot in Xiaoxihu Historical District**<br>
   *Chen Yinan, Zhang Zhenyu, Bao Yang. Tutored by Prof. Bao Li (SEU) and Prof. Marco Trisciuoglio (Politecnico di Torino)*
@@ -69,7 +111,7 @@ title: Designs
 </p>   
 <br>
 
-<img src="/images/xiaoxihu.png">
+<img src="/images/xiaoxihu.png" alt="Image" class="enlarge-image" onclick="enlargeImage(this);">
 
 - **Boxes up to trees --University Student Entrepreneurship Exhibition Center**<br>
   *Chen Yinan. Tutored by A.P. Deng Hao (SEU)*
@@ -80,7 +122,7 @@ title: Designs
 </p>  
 <br>
 
-<img src="/images/daxue.png">
+<img src="/images/daxue.png" alt="Image" class="enlarge-image" onclick="enlargeImage(this);">
 
 ### 2018
 - **Block House -- Kindergarten Design**<br>
@@ -92,7 +134,7 @@ title: Designs
 </P>  
 <br>
 
-<img src="/images/youer.png">
+<img src="/images/youer.png" alt="Image" class="enlarge-image" onclick="enlargeImage(this);">
 
 - **Within Trees -- University Student Fitness Center and Service Center Design**<br>
   *Chen Yinan, Lin Kaiyi. Tutored by Assco.Prof.Zhou Lin (SEU)*
@@ -103,5 +145,5 @@ title: Designs
 </p>  
 <br>
 
-<img src="/images/tiyuguan.png">
+<img src="/images/tiyuguan.png" alt="Image" class="enlarge-image" onclick="enlargeImage(this);">
 <br>
