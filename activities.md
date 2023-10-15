@@ -54,7 +54,7 @@ title: Activities
 
 <p style="text-align: justify;"> 
   The first time to be on-site for a construction project~<br> 
-  It's just so amazing to witness a model turning into a real-life building, and even more amazaing to be a member of the construction team!
+  It's just so amazing to witness a model turning into a real-life building, and even more amazing to be a member of the construction team!
 </p>
 <br>
 
@@ -79,12 +79,12 @@ title: Activities
 <img src="/images/3.png" alt="Image" class="enlarge-image" onclick="enlargeImage(this);">
 
 <p style="text-align: justify;"> 
-  Organizing academic conferences and student activities has given me the opportunity to meet many talented scholars and fascinating peers. The pursuits of architects and urban designers can be diverse, and their experience constantly inspire me.
+  Organizing academic conferences and student activities has given me the opportunity to meet many talented scholars and fascinating peers. The pursuits of architects and urban designers can be diverse, and their experiences constantly inspire me.
 </p>
 <br>
 
 
-- **Volunteer Asscociate of Arch.SEU**
+- **Volunteer Associate of Arch.SEU**
 
 <img src="/images/4.png" alt="Image" class="enlarge-image" onclick="enlargeImage(this);">
 
@@ -104,7 +104,7 @@ title: Activities
 <img src="/images/5.png" alt="Image" class="enlarge-image" onclick="enlargeImage(this);">
 
 <p style="text-align: justify;"> 
-  Drawing can make me feel peace and at ease, especially with my earphone on.
+  Drawing can make me feel at peace and at ease, especially with my earphones on.
 </p>
 <br>
 
@@ -114,7 +114,7 @@ title: Activities
 <img src="/images/6.png" alt="Image" class="enlarge-image" onclick="enlargeImage(this);">
 
 <p style="text-align: justify;"> 
-  Inspired by Julia Child, I have gradually fallen in love with cooking. Food has the magic healing power, and just like Mrs. Child, it's never too late to pursue what you truly love.
+  Inspired by Julia Child, I have gradually fallen in love with cooking. Food has a magic healing power, and just like Mrs. Child, it's never too late to pursue what you truly love.
 </p>
 <br>
 

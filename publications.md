@@ -5,7 +5,7 @@ title: Publications
 ---
 
 
-Lastest Update: 18 Aug 2023&nbsp;  
+Latest Update: 15 September 2023&nbsp;  
 
 
 ## Conference Paper
@@ -14,9 +14,10 @@ Lastest Update: 18 Aug 2023&nbsp;
 
 -  (Accepted·Chinese) **Chen Yinan**. [The Functional Transformation of Street Windows and the Construction of Urban Blocks: A Case Study of Shop Windows as Openings on the Street Facades](https://Ariachenyinan.github.io/mypaper/2.pdf). *The 2023 Annual National Urban Planning Conference of China*.
 
-## Under Reiview
+- (Accepted·English) **Chen Yinan**, Jia Xibei, Tu Han, Ou Yiwei, Zhou Xinren. CITY DIVERSITY: HOW DO ARCHITECTURAL USES, AGES, AND STYLES AFFECT THE PUBLIC -- A case study in Manhattan through social media data. *ASCAAD 2023*.<br>
 
-- (Under Review·Abstract Accepted·English) **Chen Yinan**, Jia Xibei, Tu Han, Ou Yiwei, Zhou Xinren. CITY DIVERSITY：HOW DO ARCHITECTURAL USES, AGES, AND STYLES AFFECT THE PUBLIC -- A case study in Manhattan through social media data. *ASCAAD 2023*.<br>
+## Under Review
+
 - (Under Review·English) **Chen Yinan**, Huang Xiaoran, Marcus White. A Study on Street Walkability for Elderly People with Different Mobility Abilities Combining Street View Image Recognition and Deep Learning. *Computers, Environment and Urban Systems*.
 
 ## Working Manuscripts
