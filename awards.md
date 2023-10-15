@@ -5,7 +5,7 @@ title: Awards
 ---
 
 
-Latest Update: 18 Aug 2023&nbsp;  
+Latest Update: 18 August 2023&nbsp;  
 
 
 ## Scholarships
