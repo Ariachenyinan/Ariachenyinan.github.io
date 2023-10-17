@@ -58,8 +58,8 @@ My current research interest is to utilize <strong>urban multi-source big data</
 
 ## News and Updates
 
-- **June 2023：**
-  Abstract accepted by ASCAAD·2023，full paper submitted and currently under review
+- **October 2023：**
+  Paper accepted by ASCAAD·2023
 - **June 2023：**
   Two full papers (Chinese) accepted by The 2023 Annual National Planning Conference of China
 - **October 2022：**
