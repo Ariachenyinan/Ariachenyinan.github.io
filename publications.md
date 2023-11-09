@@ -14,7 +14,7 @@ Latest Update: 15 September 2023&nbsp;
 
 -  (Accepted·Chinese) **Chen Yinan**. [The Functional Transformation of Street Windows and the Construction of Urban Blocks: A Case Study of Shop Windows as Openings on the Street Facades](https://Ariachenyinan.github.io/mypaper/2.pdf). *The 2023 Annual National Urban Planning Conference of China*.
 
-- (Accepted·English) **Chen Yinan**, Jia Xibei, Tu Han, Ou Yiwei, Zhou Xinren. CITY DIVERSITY: HOW DO ARCHITECTURAL USES, AGES, AND STYLES AFFECT THE PUBLIC -- A case study in Manhattan through social media data. *ASCAAD 2023*.<br>
+- (Accepted·English·Oral presentation) **Chen Yinan**, Jia Xibei, Tu Han, Ou Yiwei, Zhou Xinren. CITY DIVERSITY: HOW DO ARCHITECTURAL USES, AGES, AND STYLES AFFECT THE PUBLIC -- A case study in Manhattan through social media data. *ASCAAD 2023*.<br>
 
 ## Under Review
 
