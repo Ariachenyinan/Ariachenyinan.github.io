@@ -26,7 +26,7 @@ title: Researches
   <br>
   *Major member, Supervised by Associate Researcher Li Li (Southeast University)*
 
-- **5.&nbsp; POI Analysis of Urban Renewal Project in Xiaoqinhuai, Yangzhou, Jiangsu [(Click for detail)](https://ariachenyinan.github.io/researches/4)**
+- **5.&nbsp; POI Analysis of Urban Renewal Project in Xiaoqinhuai, Yangzhou, Jiangsu [(Click for detail)](https://ariachenyinan.github.io/researches/7)**
   <br>
   *Group member, Supervised by Prof. Wang Jianguo (Southeast University)*
 
