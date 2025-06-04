@@ -108,7 +108,7 @@ title: Designs
    <br>
 
 <p style="text-align: justify;"> 
-   Regenration of traditional neighborhoods with a blend of old and new elements, emphasizing high utilization.
+   Regeneration of traditional neighborhoods with a blend of old and new elements, emphasizing high utilization.
 </p>   
 <br>
 
@@ -119,7 +119,7 @@ title: Designs
   <br>
 
 <p style="text-align: justify;"> 
-  A multifuntional building with structure system inspired by trees, surrounded by compact spaces.
+  A multifunctional building with a structured system inspired by trees, surrounded by compact spaces.
 </p>  
 <br>
 

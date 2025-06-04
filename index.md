@@ -11,7 +11,7 @@ Here is **CHEN YINAN (Aria, 陈轶男)**.
 
 <br>
 
-I am currently a postgraduate student majoring in **Architecture** at Southeast University and tutored by [Prof. Wang Jianguo](https://arch.seu.edu.cn/jz_en/2019/1115/c41169a410116/page.htm) in Urban Design Research Center. 
+I am currently a doctoral student majoring in **Urban Engineering** at The University of Tokyo in Housing and Urban Analysis Lab. 
 
 <br>
 
@@ -22,6 +22,8 @@ Here is [my Curriculum Vitae](https://Ariachenyinan.github.io/file/CHENYINAN_CV.
 
 ## Academic Background
 
+- **Sep 2024 - :** **The University of Tokyo**<br>
+   Department of Urban Engineering, School of Engineering<br>
 - **Sep 2021 - June 2024:** **Southeast University**<br>
   School of Architecture (Master of Architecture)<br>
   [Transcripts](https://Ariachenyinan.github.io/file/grades_master.pdf)  &  [Certificate](https://Ariachenyinan.github.io/file/certificate_master.pdf)
@@ -38,11 +40,6 @@ Here is [my Curriculum Vitae](https://Ariachenyinan.github.io/file/CHENYINAN_CV.
 ## Research Interests
 
 **<font color='red'>[Highlight]</font>** 
-
-**I am looking for a 2024 Fall PhD position.**
-
-**Contact me if you are interested!**
-
 - Urban Informatics and Urban Data Analysis
 - Urban Perception
 - Walkability
@@ -57,7 +54,14 @@ My current research interest is to utilize <strong>urban multi-source big data</
 ---
 
 ## News and Updates
-
+- **November 2024：**
+  Paper accepted by CAADRIA·2025
+- **Octorber 2024：**
+  Hello, UTokyo!
+- **July 2024：**
+  Paper accepted by Journal: Computers, Environment and Urban Systems
+- **June 2024：**
+  Graduated from SEU!
 - **October 2023：**
   Paper accepted by ASCAAD·2023
 - **June 2023：**
@@ -77,7 +81,7 @@ My current research interest is to utilize <strong>urban multi-source big data</
 - **July 2020：**
   Thrilled to receive the exchange invitation from Sapienza University of Rome (But sadly got cancelled due to Covid-19 o(╥﹏╥)o)
 - **June 2017：**
-  Happy to the team of [24 Solar Terms](https://mp.weixin.qq.com/s/zxQpjXAkqAJVWYL4Yds44g) and designed some creative works 
+  Happy to join the team of [24 Solar Terms](https://mp.weixin.qq.com/s/zxQpjXAkqAJVWYL4Yds44g) and designed some creative works 
 - **September 2016：**
   Joined the Students' Union in School of Architecture, SEU
 - **August 2016：**
