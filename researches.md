@@ -6,7 +6,7 @@ title: Researches
 
 ### 2024
 
-- **1.&nbsp; Evaluating and Improving Street Walkability in Chinese Historic Urban Landscape [(Click for detail)](https://ariachenyinan.github.io/researches/5)**
+- **1.&nbsp; Evaluating and Improving Street Walkability in Chinese Historic Urban Landscape [(Click for detail)](https://ariachenyinan.github.io/researches/6)**
   <br>
   *Group leader*
 

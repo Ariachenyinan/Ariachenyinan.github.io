@@ -9,7 +9,7 @@ Latest Update: 6th June 2025&nbsp;
 
 ## Journal Paper
 
-- (Accepted· English) **Chen Yinan**, Huang Xiaoran, Marcus White. [A study on street walkability for older adults with different mobility abilities combining street view image recognition and deep learning - The case of Chengxianjie Community in Nanjing (China)](https://www.sciencedirect.com/science/article/abs/pii/S0198971524000802). *Computers, Environment and Urban Systems*.
+- (Accepted· English) **Chen Yinan**, Huang Xiaoran, Marcus White. [A study on street walkability for older adults with different mobility abilities combining street view image recognition and deep learning - The case of Chengxianjie Community in Nanjing (China)] (https://www.sciencedirect.com/science/article/abs/pii/S0198971524000802). *Computers, Environment and Urban Systems*.
 
 ## Conference Paper
 
